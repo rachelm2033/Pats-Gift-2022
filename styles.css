@@ -9,8 +9,12 @@ h1, h2, h3, h4, p {
     text-shadow: 0 0 1px black;
 }
 
+.title {
+    font-size: 80px;
+}
+
 #gift_giver_img {
-    width: 300px;
+    width: 1000px;
     border-radius: 10px;
     border: 6px solid #075200;
     object-position: -40% 0;
@@ -34,6 +38,7 @@ h1, h2, h3, h4, p {
 
 .gift-hint {
     margin-top: 0;
+    font-size: 50px;
 }
 
 #gift-img-cheers {
@@ -42,8 +47,8 @@ h1, h2, h3, h4, p {
 
 .gift-img {
     margin: 20px auto;
-    max-width: 400px;
-    height: 400px;
+    max-width: 1000px;
+    height: 1000px;
     border: 6px solid #ac0f0f;
     border-radius: 10px;
     background-image: url("images/gift-cover.jpg");
@@ -52,6 +57,7 @@ h1, h2, h3, h4, p {
 
 .gift-info {
     display: none;
+    font-size: 50px;
 }
 
 
